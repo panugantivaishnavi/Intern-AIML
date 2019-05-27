@@ -1,1 +1,1 @@
-# Internship-AIML
+# Intern-AIML
